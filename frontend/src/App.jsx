@@ -1,12 +1,11 @@
 import Header from './components/Header.jsx'
-import Form from './components/Form.jsx'
-
+import Main from './components/Main.jsx'
 function App() {
 
   return (
     <div id="wrapper">
       <Header/>
-      <Form/>
+      <Main/>
     </div>
   )
 }

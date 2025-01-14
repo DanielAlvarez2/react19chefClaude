@@ -51,4 +51,8 @@ form{
   width:2.5in;
   background:black;
   color:white;
+  cursor:pointer; 
+}
+li{
+  margin: 20px 0;
 }
