@@ -8,12 +8,14 @@
 #wrapper{
   background:#f2f2f2;
   width:10in;
-  height:8in;
+  min-height:8in;
   margin:0 auto;
   border:5px solid lightgrey;
   border-radius: 10px;
 }
-
+#here-is-the-recipe{
+  margin:15px 0;
+}
 header{
   text-align: center;
   background:white;
